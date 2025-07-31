@@ -1,0 +1,5 @@
+class isotope {
+    constructor(parametes) {
+        
+    }
+}
